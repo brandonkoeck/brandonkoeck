@@ -7,25 +7,23 @@ I'm a senior at UTSA studying **Computer Science** with a concentration in **sof
 ### 👷 Projects
 🧹 [Chore Dojo](https://github.com/NathanZunigaCS/Chore-Dojo24) - Developed an efficient chore management app in Android Studio using Agile methodologies.  
 👕 [Softwear](https://github.com/bichttor/Softwear) - Developed a clothes resale site in Java using Spring Boot in a Scrum environment.  
-🌐 Personal Website - Developed a personal site on AWS EC2 as a full-stack developer with MySQL.
+🌐 [Personal Website](https://github.com/brandonkoeck/Personal-Website) - Developed a personal site on AWS EC2 as a full-stack developer with MySQL.
 
 ### 🏂 Skills
 
 **🧑‍💻 Languages:** Java, C, Python, Bash  
-**🌐 Web Technologies:** HTML, CSS, JavaScript, PHP  
-**📦 Frameworks & Libraries:** Spring Boot, Bootstrap  
+**🌐 Web Technologies:** HTML, CSS, PHP, JavaScript  
 **🗄️ Databases:** MySQL  
-**🛠️ Development Tools:** Git, GitHub, Android Studio, VS Code  
+**📦 Frameworks & Libraries:** Spring Boot, Bootstrap  
 **💻 Environments & Platforms:** Linux, AWS EC2  
-**🔄 Development Methodologies:** Agile, Scrum
 
 ### 🎓 Education
 📖 University of Texas at San Antonio – B.S. in Computer Science, December 2025  
 
 **Relevant Courses:** 
 - 💻 Software Engineering  
-- 🧱 Object Oriented Programming  
-- 🌐 Web Development  
+- 🧱 Application Programming (Object Oriented)
+- 🌐 Web Tech  
 - 🌲 Data Structures  
 - 📊 Analysis of Algorithms  
 - 🖥️ Systems Programming
