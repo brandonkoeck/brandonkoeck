@@ -7,7 +7,7 @@ I'm a senior at UTSA studying **Computer Science** with a concentration in **sof
 ### 👷 Projects
 🧹 [Chore Dojo](https://github.com/NathanZunigaCS/Chore-Dojo24) - Developed an efficient chore management app in Android Studio using Agile methodologies.  
 👕 [Softwear](https://github.com/bichttor/Softwear) - Developed a clothes resale site in Java using Spring Boot in a Scrum environment.  
-🌐 [Personal Website]() - Developed a personal site on AWS EC2 as a full-stack developer with MySQL.
+🌐 Personal Website - Developed a personal site on AWS EC2 as a full-stack developer with MySQL.
 
 ### 🏂 Skills
 
