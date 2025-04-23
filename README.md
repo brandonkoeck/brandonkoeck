@@ -9,7 +9,7 @@ I'm a senior at UTSA studying **Computer Science** with a concentration in **sof
 👕 [Softwear](https://github.com/bichttor/Softwear) - Developed a clothes resale site in Java using Spring Boot in a Scrum environment.  
 🌐 [Personal Website](https://github.com/brandonkoeck/Personal-Website) - Developed a personal site on AWS EC2 as a full-stack developer with MySQL.
 
-### 🏂 Skills
+### 🖥️ Tech Stack
 
 **🧑‍💻 Languages:** Java, C, Python, Bash  
 **🌐 Web Technologies:** HTML, CSS, PHP, JavaScript  
