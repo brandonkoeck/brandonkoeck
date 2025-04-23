@@ -1,4 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I'm Brandon Koeck
+
+<!-- ![Linux Penguin](https://shellsamurai.com/wp-content/uploads/2023/04/tux.jpg) -->
+
+I'm a senior at UTSA studying **Computer Science** with a concentration in **software engineering.** I have experience building **group software projects** using **Agile** methodologies and **web development** with **relational databases.** I'm looking to **gain experience** in software engineering and **put my skills to use** in the **real world.**
+
+### 👷 Projects
+🧹 [Chore Dojo](https://github.com/NathanZunigaCS/Chore-Dojo24) - Developed an efficient chore management app in Android Studio using Agile methodologies.  
+👕 [Softwear](https://github.com/bichttor/Softwear) - Developed a clothes resale site in Java using Spring Boot in a Scrum environment.  
+🌐 [Personal Website]() - Developed a personal site on AWS EC2 as a full-stack developer with MySQL.
+
+### 🏂 Skills
+
+**🧑‍💻 Languages:** Java, C, Python, Bash  
+**🌐 Web Technologies:** HTML, CSS, JavaScript, PHP  
+**📦 Frameworks & Libraries:** Spring Boot, Bootstrap  
+**🗄️ Databases:** MySQL  
+**🛠️ Development Tools:** Git, GitHub, Android Studio, VS Code  
+**💻 Environments & Platforms:** Linux, AWS EC2  
+**🔄 Development Methodologies:** Agile, Scrum
+
+### 🎓 Education
+📖 University of Texas at San Antonio – B.S. in Computer Science, December 2025  
+
+**Relevant Courses:** 
+- 💻 Software Engineering  
+- 🧱 Object Oriented Programming  
+- 🌐 Web Development  
+- 🌲 Data Structures  
+- 📊 Analysis of Algorithms  
+- 🖥️ Systems Programming
+
+### 📩 Contact
+Let's connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/brandonkoeck/)
 
 <!--
 **brandonkoeck/brandonkoeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
