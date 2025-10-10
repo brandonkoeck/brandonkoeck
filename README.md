@@ -5,6 +5,7 @@
 I'm a senior at UTSA studying **Computer Science** with a concentration in **software engineering.** I have experience building **group software projects** using **Agile** methodologies and **web development** with **relational databases.** I'm looking to **gain experience** in software engineering and **put my skills to use** in the **real world.**
 
 ### 👷 Projects
+🧠 [cs-learn](https://github.com/acmutsa/cs-learn) - Currently developing a full-stack course platform in TypeScript for UTSA’s biggest tech organization
 🧹 [Chore Dojo](https://github.com/NathanZunigaCS/Chore-Dojo24) - Developed an efficient chore management app in Android Studio using Agile methodologies.  
 👕 [Softwear](https://github.com/bichttor/Softwear) - Developed a clothes resale site in Java using Spring Boot in a Scrum environment.  
 🌐 [Personal Website](https://github.com/brandonkoeck/Personal-Website) - Developed a personal site on AWS EC2 as a full-stack developer with MySQL.
