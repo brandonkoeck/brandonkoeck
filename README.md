@@ -6,9 +6,9 @@ I'm a UTSA graduate studying **Computer Science** with a concentration in **soft
 
 ### 👷 Projects
 🧠 [cs-learn](https://github.com/acmutsa/cs-learn) - Developed a full-stack course platform in TypeScript for UTSA’s biggest tech organization.  
-🧹 [Chore Dojo](https://github.com/NathanZunigaCS/Chore-Dojo24) - Developed an efficient chore management app in Android Studio using Agile methodologies.  
+🌐 [Loan Management System](https://github.com/brandonkoeck/loan-management-system) - Developed a loan document management system on AWS EC2 using PHP, MySQL, and REST APIs.  
 👕 [Softwear](https://github.com/bichttor/Softwear) - Developed a clothes resale site in Java using Spring Boot in a Scrum environment.  
-🌐 [Personal Website](https://github.com/brandonkoeck/Personal-Website) - Developed a personal site on AWS EC2 as a full-stack developer with MySQL.
+🧹 [Chore Dojo](https://github.com/NathanZunigaCS/Chore-Dojo24) - Developed an efficient chore management app in Android Studio using Agile methodologies.  
 
 ### 🖥️ Tech Stack
 
